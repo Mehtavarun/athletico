@@ -1,0 +1,13 @@
+.page-header{
+	background-color: #ffcc80;
+	margin:0;
+	margin: 0%;
+	width: 100%;
+	padding: 0%;
+	padding-left: 2%;
+	position: fixed;
+	z-index: 1;
+}
+.container{
+	padding-top: 9%;
+}
